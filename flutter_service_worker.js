@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0a8baf2115a16f1fb18757a31937af86",
+  "assets/AssetManifest.json": "f447c23c720dbd8b47679778d5e880f4",
 "assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5",
 "assets/assets/icons/check.svg": "5c11ce5da34d5420450477723011ad8f",
 "assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
@@ -12,7 +12,6 @@ const RESOURCES = {
 "assets/assets/icons/linkedin.svg": "5b2195ddf9e879047dd8a163c4194920",
 "assets/assets/icons/twitter.svg": "a4a0163fef48a4247a305528c07bc4fa",
 "assets/assets/images/bg.jpg": "20a34a2e289ba678fd7ac82bc4498b9f",
-"assets/assets/images/IMG_Ben.jpg": "947531071f7bf65f257a0273311a50b2",
 "assets/assets/projects/Ak%25C4%25B1ll%25C4%25B1Deney.PNG": "eed432ed9d2c9619d491057072432dc3",
 "assets/assets/projects/ak%25C4%25B1ll%25C4%25B1deney3.PNG": "8bfb6ff1685872b54f1ec9948e5308e5",
 "assets/assets/projects/ak%25C4%25B1lll%25C4%25B1deney2.PNG": "52e5d89e9e324778dd8889d4addb210e",
@@ -40,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fd152ddecab4db6e41559a0b51c9f843",
-"/": "fd152ddecab4db6e41559a0b51c9f843",
-"main.dart.js": "a8c69722767f107e70abffd190642458",
+"index.html": "381ca833337ace9716460442c61d78d9",
+"/": "381ca833337ace9716460442c61d78d9",
+"main.dart.js": "ac0912e242ab22efb6d637011d632a9c",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
