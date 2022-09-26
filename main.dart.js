@@ -62732,7 +62732,7 @@ A.GK.prototype={}
 A.Hx.prototype={
 G(a){var s=this,r=a.R(t.w).f.a.a
 if(r>=1024)return s.f
-else if(r>=700&&!0)return s.e
+else if(r>=723&&!0)return s.e
 else if(r>=500&&!0)return s.d
 else return s.c}}
 A.hh.prototype={
@@ -62740,13 +62740,13 @@ G(a){var s=null
 return A.fK(A.a([this.c,A.dK(s,s,10),A.co(this.d,s,s,A.ap(a).RG.x,s,s)],t.p),B.J,B.K,B.a7)}}
 A.EB.prototype={
 G(a){var s=null,r="Godot Projesi",q="Uygulama",p=t.p
-return new A.dr(B.fm,a.R(t.w).f.a.a<=700?A.fr(A.a([A.fK(A.a([new A.hh(new A.h2(0,"RH+",s),"Kan G. :)",s),new A.hh(new A.h2(55,"+",s),r,s)],p),B.J,B.cK,B.a7),B.vp,A.fK(A.a([new A.hh(new A.h2(8,"+",s),q,s),new A.hh(new A.h2(100,"Milyar+",s),"N\xf6ron",s)],p),B.J,B.cK,B.a7)],p),B.J,B.K):A.fK(A.a([new A.hh(new A.h2(0,"RH+",s),"Kan Grubum :)",s),new A.hh(new A.h2(55,"+",s),r,s),new A.hh(new A.h2(6,"+",s),q,s),new A.hh(new A.h2(100,"Milyar+",s),"N\xf6ron",s)],p),B.J,B.cK,B.a7),s)}}
+return new A.dr(B.fm,a.R(t.w).f.a.a<=723?A.fr(A.a([A.fK(A.a([new A.hh(new A.h2(0,"RH+",s),"Kan G. :)",s),new A.hh(new A.h2(55,"+",s),r,s)],p),B.J,B.cK,B.a7),B.vp,A.fK(A.a([new A.hh(new A.h2(8,"+",s),q,s),new A.hh(new A.h2(100,"Milyar+",s),"N\xf6ron",s)],p),B.J,B.cK,B.a7)],p),B.J,B.K):A.fK(A.a([new A.hh(new A.h2(0,"RH+",s),"Kan Grubum :)",s),new A.hh(new A.h2(55,"+",s),r,s),new A.hh(new A.h2(6,"+",s),q,s),new A.hh(new A.h2(100,"Milyar+",s),"N\xf6ron",s)],p),B.J,B.cK,B.a7),s)}}
 A.EE.prototype={
 G(a){var s=null,r=t.w,q=a.R(r).f.a.a<=500?2.3:3,p=A.asz(s,s,new A.m6("assets/images/bg.jpg",s,s)),o=A.eB(s,s,B.o,A.aA(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.a([A.co("M\xfctevaz\u0131 Mek\xe2n\u0131ma \nHo\u015fgeldiniz!",s,s,a.R(r).f.a.a>=1024?A.ap(a).RG.c.GJ(B.i,B.au):A.ap(a).RG.f.GJ(B.i,B.au),s,s)],n)
-if(a.R(r).f.a.a<=700)m.push(A.dK(s,20,s))
+if(a.R(r).f.a.a<=723)m.push(A.dK(s,20,s))
 m.push(new A.Fw(s))
 m.push(A.dK(s,20,s))
-if(!(a.R(r).f.a.a<=700))m.push(new A.DH(new A.WF(),s,s,s,A.ajA(s,s,B.bg,s,s,s,s,s,s,s,s,s,new A.aS(40,20,40,20),s,s,s,s,s,s),B.o,s,!1,s,A.co("EYVALLAH",s,s,A.eQ(s,s,B.dp,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s))
+if(!(a.R(r).f.a.a<=723))m.push(new A.DH(new A.WF(),s,s,s,A.ajA(s,s,B.bg,s,s,s,s,s,s,s,s,s,new A.aS(40,20,40,20),s,s,s,s,s,s),B.o,s,!1,s,A.co("EYVALLAH",s,s,A.eQ(s,s,B.dp,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s))
 return new A.m4(q,A.qq(B.bF,A.a([new A.uL(p,B.l3,s),o,new A.dr(B.Cx,A.fr(m,B.aM,B.GY),s)],n),B.vq),s)}}
 A.WF.prototype={
 $0(){},
@@ -62756,12 +62756,12 @@ G(a){var s,r,q=null,p=A.ap(a).RG.w
 p.toString
 s=A.a([],t.p)
 r=t.w
-if(!(a.R(r).f.a.a<=700))s.push(new A.uv(q))
-if(!(a.R(r).f.a.a<=700))s.push(A.dK(q,q,10))
-s.push(a.R(r).f.a.a<=700?A.co("\u0130yiki ",q,q,B.bb,q,q):A.co("\u0130yiki ",q,q,q,q,q))
-s.push(a.R(r).f.a.a<=700?A.mp(new A.B9(q),1):new A.B8(q))
-if(!(a.R(r).f.a.a<=700))s.push(A.dK(q,q,10))
-if(!(a.R(r).f.a.a<=700))s.push(new A.uv(q))
+if(!(a.R(r).f.a.a<=723))s.push(new A.uv(q))
+if(!(a.R(r).f.a.a<=723))s.push(A.dK(q,q,10))
+s.push(a.R(r).f.a.a<=723?A.co("\u0130yiki ",q,q,B.bb,q,q):A.co("\u0130yiki ",q,q,q,q,q))
+s.push(a.R(r).f.a.a<=723?A.mp(new A.B9(q),1):new A.B8(q))
+if(!(a.R(r).f.a.a<=723))s.push(A.dK(q,q,10))
+if(!(a.R(r).f.a.a<=723))s.push(new A.uv(q))
 return A.CY(A.fK(s,B.J,B.K,B.a7),1,B.ca,!0,p,q,q,B.aZ)}}
 A.B8.prototype={
 G(a){var s=null
@@ -62782,7 +62782,7 @@ A.a_s.prototype={
 $2(a,b){return new A.pT($.agD()[b],null)},
 $S:393}
 A.pT.prototype={
-G(a){var s=null,r=A.ah_(new A.bB(30,30)),q=this.c,p=A.co(q.a,2,B.bA,A.ap(a).RG.x,s,s),o=new A.d7(A.aA(B.d.aG(25.5),255,255,255),2,B.aJ,B.JA),n=A.eB(s,s,B.o,s,s,new A.ek(s,A.ahx(B.wG,new A.m6(q.c,s,s),s),new A.dm(o,o,o,o),A.Br(12),s,s,B.aC),s,s,s,s,s,s,s),m=a.R(t.w).f.a.a<=700?3:4
+G(a){var s=null,r=A.ah_(new A.bB(30,30)),q=this.c,p=A.co(q.a,2,B.bA,A.ap(a).RG.x,s,s),o=new A.d7(A.aA(B.d.aG(25.5),255,255,255),2,B.aJ,B.JA),n=A.eB(s,s,B.o,s,s,new A.ek(s,A.ahx(B.wG,new A.m6(q.c,s,s),s),new A.dm(o,o,o,o),A.Br(12),s,s,B.aC),s,s,s,s,s,s,s),m=a.R(t.w).f.a.a<=723?3:4
 return A.eB(s,A.fr(A.a([p,new A.fM(1,s),new A.m4(1.7777777777777777,n,s),new A.fM(1,s),new A.fM(1,s),A.co(q.b,m,B.bA,A.eQ(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,1.5,!0,s,s,s,s,s,s,s,s),s,s),new A.fM(1,s),A.ajz(A.co("Devam\u0131n\u0131 Oku >>",s,s,A.eQ(s,s,B.bg,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a_r())],t.p),B.aM,B.K),B.o,s,s,new A.ek(B.dp,s,s,r,s,s,B.aC),s,s,s,B.Cy,s,s,s)}}
 A.a_r.prototype={
 $0(){},
@@ -69426,7 +69426,7 @@ r($,"aCQ","aoz",()=>new A.RK(A.aO(A.a4("ib"))))
 r($,"aCH","aow",()=>new A.Rq())
 s($,"ayX","amv",()=>A.dH("^[\\w!#%&'*+\\-.^`|~]+$",!0))
 r($,"aCN","agD",()=>{var q="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
-return A.a([A.wg("LazCraft 2.0'a ho\u015f geldiniz. Bu s\xfcr\xfcmle beraber Lan ve Multiplayer deste\u011fi getiriyoruz. LazCraft Survival, RPG ve Crafting \xf6\u011felerini bir araya getiren orijinal bir konsepttir.","assets/projects/laz.PNG","Terraria tarz\u0131 bir crafting oyunu - LazCraft"),A.wg(q,"assets/projects/karaBilal.PNG","Orta\xe7a\u011fda ge\xe7en bir intikam hikayesi - KaraBilal"),A.wg(q,"assets/projects/Conq.png","Yeni y\xfczy\u0131la haz\u0131r m\u0131s\u0131 ? Bir strateji klasi\u011fi - Conq"),A.wg(q,"assets/projects/Ak\u0131ll\u0131Deney.PNG","Lise dersleriyle alakal\u0131 deneyleri i\xe7eren bir paket program - Ak\u0131ll\u0131Deney"),A.wg(q,"assets/projects/localLords.PNG","Multiplayer destekli bir strateji oyunu - LocalLords"),A.wg(q,"assets/projects/mathzibar12.PNG","Matemati\u011fi sever misin ? Buna bay\u0131lacaks\u0131n - MathZ\u0131bar")],A.a4("w<GK>"))})
+return A.a([A.wg("LazCraft 2.0'a ho\u015f geldiniz. Bu s\xfcr\xfcmle beraber Lan ve Multiplayer deste\u011fi getiriyoruz. LazCraft Survival, RPG ve Crafting \xf6\u011felerini bir araya getiren orijinal bir konsepttir.","assets/projects/laz.PNG","Terraria tarz\u0131 bir crafting oyunu - LazCraft"),A.wg(q,"assets/projects/karaBilal.PNG","Orta\xe7a\u011fda ge\xe7en bir intikam hikayesi - KaraBilal"),A.wg(q,"assets/projects/Conq.png","Yeni y\xfczy\u0131la haz\u0131r m\u0131s\u0131 ? Bir strateji klasi\u011fi - Conq"),A.wg(q,"assets/projects/localLords.PNG","Multiplayer destekli bir strateji oyunu - LocalLords"),A.wg(q,"assets/projects/Ak\u0131ll\u0131Deney.PNG","Lise dersleriyle alakal\u0131 deneyleri i\xe7eren bir paket program - Ak\u0131ll\u0131Deney"),A.wg(q,"assets/projects/mathzibar12.PNG","Matemati\u011fi sever misin ? Buna bay\u0131lacaks\u0131n - MathZ\u0131bar")],A.a4("w<GK>"))})
 s($,"aAA","ana",()=>A.adO(A.AL("\n",null),A.a28(A.AL("\r",null),A.aiC(A.AL("\n",null),t.N))))
 s($,"aCb","aoa",()=>A.e8(A.afL(),new A.acd(),t.N,t.eg))
 s($,"aC4","ao5",()=>A.e8(A.a28(A.a28(A.afL(),A.AL("-",null)),A.afL()),new A.ac1(),t.j,t.eg))
