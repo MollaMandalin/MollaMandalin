@@ -62765,7 +62765,7 @@ if(!(a.R(r).f.a.a<=723))s.push(new A.uv(q))
 return A.CY(A.fJ(s,B.J,B.K,B.a7),1,B.c9,!0,p,q,q,B.aZ)}}
 A.B8.prototype={
 G(a){var s=null
-return A.agU(A.a([A.jT(" KVP ilk 97 b\xf6l\xfcm gibi bir adam\u0131m.",A.bq(0,60),s),A.jT(u.s,A.bq(0,60),s),A.jT(", evet evet bende sevmiyorum",A.bq(0,60),s),A.jT(u.H,A.bq(0,60),s),A.jT(" \u015faka gibi bir adam\u0131m",A.bq(0,65),s)],t.u6))}}
+return A.agU(A.a([A.jT(" KVP ilk 97 b\xf6l\xfcm\xfcm.",A.bq(0,60),s),A.jT(u.s,A.bq(0,60),s),A.jT(", evet evet bende sevmiyorum",A.bq(0,60),s),A.jT(u.H,A.bq(0,60),s),A.jT(" \u015faka gibi bir adam\u0131m",A.bq(0,65),s)],t.u6))}}
 A.B9.prototype={
 G(a){return A.agU(A.a([A.jT(" KVP ilk 97 b\xf6l\xfcm gibi bir adam\u0131m.",A.bq(0,60),B.ca),A.jT(u.s,A.bq(0,60),B.ca),A.jT(", evet evet bende sevmiyorum",A.bq(0,60),B.ca),A.jT(u.H,A.bq(0,60),B.ca),A.jT(" \u015faka gibi bir adam\u0131m",A.bq(0,65),B.ca)],t.u6))}}
 A.uv.prototype={
